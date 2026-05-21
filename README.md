@@ -5,7 +5,7 @@ I’m a developer and lifelong learner driven by curiosity. I enjoy building fun
 ---
 
 ### 🚀 What I'm Up To
-* 🔭 **Current Project:** Making some Management Apps for personal and commercial use.
+* 🔭 **Current Project:** Academic Research Projects for Personal Amusement and Learning.
 * 🌱 **Learning:** Deep-diving into **AI/ML** and  **Web Development**.
 * 📚 **For Fun:** Exploring Game Theory, Anthropology, Linguistics, Macro-economics, Hindi and English Literature, Politics, French, and Logic/Reasoning.
 * 🤝 **Collaboration:** Looking to partner on projects that mix **Mathematics** with **WebDev**.
